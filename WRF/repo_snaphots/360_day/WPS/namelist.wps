@@ -1,0 +1,39 @@
+&share
+ wrf_core = 'ARW',
+ max_dom = 2,
+ start_date = '1981-01-01_00:00:00','1981-01-01_00:00:00',
+ end_date   = '1981-01-31_00:00:00','1981-01-31_00:00:00',
+ interval_seconds = 21600
+ io_form_geogrid = 2,
+ debug_level= 0,
+/
+
+&geogrid
+ parent_id         =   1,   1,
+ parent_grid_ratio =   1,   5,
+ i_parent_start    =   1,  205,
+ j_parent_start    =   1,  90,
+ e_we              =  540, 616,
+ e_sn              =  363,  501,
+ geog_data_res     = '10m','2m',
+ dx = 0.176
+ dy = 0.176
+ map_proj = 'lat-lon',
+ ref_lat   =  -24.26,
+ ref_lon   = 147.63,
+ pole_lat= 60.31
+ pole_lon= 321.38
+ stand_lon = 32.37,
+ geog_data_path = '/g/data/sx70/data/WPS_GEOG_20190418/'
+/
+
+&ungrib
+ out_format = 'WPS',
+ prefix = 'INVAR',
+/
+
+&metgrid
+ fg_name = 'INVAR',
+ constants_name='INVAR:2007-10-29_12',
+ io_form_metgrid = 2, 
+/
