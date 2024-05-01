@@ -1,29 +1,41 @@
-# README #
+# NARCLiM2.0 Design and Evaluation manuscript supporting information #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Executive Summary ##
 
-### What is this repository for? ###
+This repository contains supporting information for the manuscript titled "Design, evaluation and future projections of the NARCliM2.0 CMIP6-CORDEX Australasia regional climate ensemble", by Giovanni Di Virgilio, Jason P. Evans, Fei Ji, Eugene Tam, Jatin Kala, Julia Andrys, Christopher Thomas, Dipayan Choudhury, Carlos V. Rocha, Stephen White, Yue Li, Moutassem El Rafei, Rishav Goyal and Matthew L. Riley, submitted to *to be filled* on *submission date*.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+The manuscript is available with the DOI [Insert DOI here](https://dx.doi.org/our-doi)
 
-### How do I get set up? ###
+We ask everyone who uses or adapts our scripts to acknowledge the NSW Department of Climate Change, Energy, Environment and Water 2024 (NSW DCCEEW), not to be mistaken with our Federal counterpart.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Additional information can be found on the [NSW Climate Data Portal](https://climatedata-beta.environment.nsw.gov.au/)
 
-### Contribution guidelines ###
+## Repository Structure ##
 
-* Writing tests
-* Code review
-* Other guidelines
+The included supported materials include
 
-### Who do I talk to? ###
+* WRF
+    * Snapshots of the version of WRF/WPS source code used for GCMs with
+        * standard and no leap calendars
+        * 360 day calendars
+    * Namelists used to generate boundary/initial conditions from metgrid outputs as well as downscale the GCMs using the boundary/initial condition files generated.
+* GCM pre-processing scripts including
+    * NCL scripts that directly processed the GCM outputs and generate "intermediate" files
+    * Namelists used to convert the intermediate files into metgrid files
+* Miscellaneous scripts used which aren't strictly necessary to run WRF but provides additional confidence in the downloaded/generated data before performing the more time consuming steps. This includes
+    * Boundary/Initial file checker which ensures the boundary/initial conditions generated does have periods that contain significant outliers
 
-* Repo owner or admin
-* Other community or team contact
+## Acknowledgements ##
+
+We acknowledge 
+
+* Climate Change Fund
+* Other funding bodies
+
+## References ##
+
+1. Di Virgilio Giovanni, F. Ji, E. Tam, N. Nishant, J. P. Evans, C. Thomas, M. Riley, K. Beyer, M. Grose, S Narsey, F Delage. (2022). Selecting CMIP6 GCMs for CORDEX dynamical downscaling: model performance, independence, and climate change signals, Earth’s Future, DOI: [10.1029/2021EF002625](https://dx.doi.org/10.1029/2021EF002625)
+
+2. Di Virgilio Giovanni, F. Ji, E. Tam, J. P. Evans, J. Kala, J. Andrys C. Thomas, D. Choudhury, C. Rocha, Y. Li, M. Riley (Under review) Evaluation of CORDEX ERA5-forced ‘NARCliM2.0’ regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2, Geoscientific Model Development, DOI: [10.5194/gmd-2024-41](https://dx.doi.org/10.5194/gmd-2024-41)
+
+3. Di Virgilio Giovanni, J. P. Evans, F. Ji, E. Tam, J. Kala, J. Andrys, C. Thomas, D. Choudhury, C. Rocha, S. White, Y. Li, M. El Rafei, R. Goyal and M. Riley (Under review) Design, evaluation and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble, Geoscientific Model Development
