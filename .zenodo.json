@@ -1,0 +1,64 @@
+{
+    "upload_type": "publication",
+    "publication_type":"preprint",
+    "publication_date": "2024-04-15",
+    "title": "Supporting information for \"Evaluation of CORDEX ERA5-forced 'NARCliM2.0' regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2\"",
+    "creators": [
+        {
+            "affiliation": "Climate & Atmospheric Science, NSW Department of Climate Change, Environment, Energy and Water, Sydney, Australia",
+            "name": "Di Virgilio, Giovanni"
+        },
+        {
+            "affiliation": "Climate & Atmospheric Science, NSW Department of Climate Change, Environment, Energy and Water, Sydney, Australia",
+            "name": "Ji, Fei"
+        },
+        {
+            "affiliation": "Climate & Atmospheric Science, NSW Department of Climate Change, Environment, Energy and Water, Sydney, Australia",
+            "name": "Tam, Eugene"
+        },
+        {
+            "orcid": "0000-0003-1776-3429",
+            "affiliation": "Climate Change Research Centre, University of New South Wales, Sydney, Australia",
+            "name": "Evans, Jason"
+        },
+        {
+            "orcid": "0000-0001-9338-2965",
+            "affiliation": "Environmental and Conservation Sciences, and Centre for Climate Impacted Terrestrial Ecosystems, Harry Butler Institute, Murdoch University, Murdoch, WA 6150, Australia",
+            "name": "Kala, Jatin"
+        },
+        {
+            "affiliation": "Environmental and Conservation Sciences, and Centre for Climate Impacted Terrestrial Ecosystems, Harry Butler Institute, Murdoch University, Murdoch, WA 6150, Australia",
+            "name": "Andrys, Julia"
+        },
+        {
+            "affiliation": "Climate Change Research Centre, University of New South Wales, Sydney, Australia",
+            "name": "Thomas, Christopher "
+        },
+        {
+            "affiliation": "Climate & Atmospheric Science, NSW Department of Climate Change, Environment, Energy and Water, Sydney, Australia",
+            "name": "Choudhury, Dipayan"
+        },
+        {
+            "affiliation": "Climate & Atmospheric Science, NSW Department of Climate Change, Environment, Energy and Water, Sydney, Australia",
+            "name": "Rocha, Carlos"
+        },
+        {
+            "affiliation": "Climate & Atmospheric Science, NSW Department of Climate Change, Environment, Energy and Water, Sydney, Australia",
+            "name": "Li, Yue"
+        },
+        {
+            "orcid": "0000-0002-9181-782X",
+            "affiliation": "Climate & Atmospheric Science, NSW Department of Climate Change, Environment, Energy and Water, Sydney, Australia",
+            "name": "Riley, Matthew"
+        }
+    ],
+    "description":"This repository contains supporting information for the manuscript titled 'Design, evaluation and future projections of the NARCliM2.0 CMIP6-CORDEX Australasia regional climate ensemble', by Giovanni Di Virgilio, Jason P. Evans, Fei Ji, Eugene Tam, Jatin Kala, Julia Andrys, Christopher Thomas, Dipayan Choudhury, Carlos V. Rocha, Stephen White, Yue Li, Moutassem El Rafei, Rishav Goyal and Matthew L. Riley, submitted to Geoscientific Model Development on 2024-04-15.\nThe manuscript is available with the DOI 10.5194/gmd-2024-41-CEC1 (https://dx.doi.org/10.5194/gmd-2024-41-CEC1)\nWe ask everyone who uses or adapts our scripts to acknowledge the NSW Department of Climate Change, Energy, Environment and Water 2024 (NSW DCCEEW), not to be mistaken with our Federal counterpart.\nAdditional information can be found on the NSW Climate Data Portal (https://climatedata-beta.environment.nsw.gov.au/)",
+    "access_right":"open",
+    "license": "cc-by",
+    "references":[
+        "Di Virgilio Giovanni, F. Ji, E. Tam, N. Nishant, J. P. Evans, C. Thomas, M. Riley, K. Beyer, M. Grose, S Narsey, F Delage. (2022). Selecting CMIP6 GCMs for CORDEX dynamical downscaling: model performance, independence, and climate change signals, Earth's Future, https://doi.org/10.1029/2021EF002625",
+        "Di Virgilio Giovanni, F. Ji, E. Tam, J. P. Evans, J. Kala, J. Andrys C. Thomas, D. Choudhury, C. Rocha, Y. Li, M. Riley (Under review) Evaluation of CORDEX ERA5-forced ‘NARCliM2.0’ regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2, Geoscientific Model Development, https://dx.doi.org/10.5194/gmd-2024-41",
+        "Di Virgilio Giovanni, J. P. Evans, F. Ji, E. Tam, J. Kala, J. Andrys, C. Thomas, D. Choudhury, C. Rocha, S. White, Y. Li, M. El Rafei, R. Goyal and M. Riley (Under review) Design, evaluation and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble, Geoscientific Model Development"
+    ],
+    "journal_title":"Geoscientific Model Development"
+}
