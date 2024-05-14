@@ -1,4 +1,4 @@
-# NARCLiM2.0 Design and Evaluation manuscript supporting information #
+# Supporting information for "Design, evaluation and future projections of the NARCliM2.0 CMIP6-CORDEX Australasia regional climate ensemble" #
 
 ## Executive Summary ##
 
@@ -37,4 +37,4 @@ We acknowledge
 
 2. Di Virgilio Giovanni, F. Ji, E. Tam, J. P. Evans, J. Kala, J. Andrys C. Thomas, D. Choudhury, C. Rocha, Y. Li, M. Riley (Under review) Evaluation of CORDEX ERA5-forced ‘NARCliM2.0’ regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2, Geoscientific Model Development, DOI: [10.5194/gmd-2024-41](https://dx.doi.org/10.5194/gmd-2024-41)
 
-3. Di Virgilio Giovanni, J. P. Evans, F. Ji, E. Tam, J. Kala, J. Andrys, C. Thomas, D. Choudhury, C. Rocha, S. White, Y. Li, M. El Rafei, R. Goyal and M. Riley (Under review) Design, evaluation and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble, Geoscientific Model Development
+3. Di Virgilio Giovanni, J. P. Evans, F. Ji, E. Tam, J. Kala, J. Andrys, C. Thomas, D. Choudhury, C. Rocha, S. White, Y. Li, M. El Rafei, R. Goyal and M. Riley (Under review) Design, evaluation and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble, Geoscientific Model Development, DOI: [10.5194/gmd-2024-87](https://doi.org/10.5194/gmd-2024-87)
