@@ -2,9 +2,9 @@
 
 ## Executive Summary ##
 
-This repository contains supporting information for the manuscript titled "Design, evaluation and future projections of the NARCliM2.0 CMIP6-CORDEX Australasia regional climate ensemble", by Giovanni Di Virgilio, Jason P. Evans, Fei Ji, Eugene Tam, Jatin Kala, Julia Andrys, Christopher Thomas, Dipayan Choudhury, Carlos V. Rocha, Stephen White, Yue Li, Moutassem El Rafei, Rishav Goyal and Matthew L. Riley, submitted to Geoscientific Model Development on 2024-04-15.
+This repository contains supporting information for the manuscript titled "Design, evaluation and future projections of the NARCliM2.0 CMIP6-CORDEX Australasia regional climate ensemble", by Giovanni Di Virgilio, Jason Evans, Fei Ji, Eugene Tam, Jatin Kala, Julia Andrys, Christopher Thomas, Dipayan Choudhury, Carlos Rocha, Stephen White, Yue Li, Moutassem El Rafei, Rishav Goyal and Matthew L. Riley, submitted to Geoscientific Model Development on 2024-05-05.
 
-The manuscript is available with the DOI [10.5194/gmd-2024-41-CEC1](https://dx.doi.org/10.5194/gmd-2024-41-CEC1)
+The manuscript is available with the DOI *TBD*
 
 We ask everyone who uses or adapts our scripts to acknowledge the NSW Department of Climate Change, Energy, Environment and Water 2024 (NSW DCCEEW), not to be mistaken with our Federal counterpart.
 
